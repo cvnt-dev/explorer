@@ -1,0 +1,17 @@
+{
+  "chain_name": "CVN",
+  "api": ["http://node.consciousdao.com:26657"],
+  "rpc": ["https://node.consciousdao.com"],
+  "sdk_version": "0.46.10",
+  "coin_type": "60",
+  "min_tx_fee": "800",
+  "addr_prefix": "CVN",
+  "logo": "https://xtm-coin.s3.ap-east-1.amazonaws.com/cvn_coin/150.png",
+  "assets": [
+    {
+      "base": "CVN",
+      "symbol": "CVN",
+      "exponent": "18"
+    }
+  ]
+}
